@@ -1,4 +1,4 @@
 ﻿a git test.
 Creating a new branch is quick & simple.
 Git tracks changes.
-Git has a mutable index called stage.
+Git has a mutable index which is called stage.
